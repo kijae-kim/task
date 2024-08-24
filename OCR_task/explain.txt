@@ -1,0 +1,25 @@
+팀과제
+Tesseract, EasyOCR, PaddleOCR, CLOVA OCR(네이버 API), Cloud Vision(구글 API) ..
+위 라이브러리 또는 API를 사용하여 OCR 프로젝트를 개발
+(포스터, 간판, 신분증, 차량 번호 인식 ...)
+(두개 정도 비교)
+
+
+목적
+과자나 영상성분표를 보면 영상소 성분을 읽어올 수 있는 기능. 텍스트로도 추출을 하여 가시성이 좋게 유저에게 보여주자. 또한 음성으로도 읽어줄 수 있는 기능을 추가하자
+
+캠과 연결 또는 사진
+성분표가 어떤 것인지
+shape 학습
+다양한 경우의 수 성분표 사이즈
+
+그 중 중요한 성분인 단백질, 탄수, 지방, 당, 칼로리, 제품명 …
+DF
+읽어주기
+
+
+참고자료
+
+https://patents.google.com/patent/KR20210092552A/ko
+
+https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=633
